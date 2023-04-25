@@ -1,5 +1,5 @@
+![image](https://user-images.githubusercontent.com/127152563/234346445-89bc5d79-c20e-462b-af25-d68177c12876.png width = "350" height= "350")
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,;+I+am+a+lady+in+Tech;See+more+of+me+down)](https://git.io/typing-svg)
-![image](https://user-images.githubusercontent.com/127152563/234346445-89bc5d79-c20e-462b-af25-d68177c12876.png)
 - 👋 Hi, I’m @HerryTech
 - 🌱 I’m currently learning Python and Javascript
 - 👀 I’m interested in projects/work that will challenge me
