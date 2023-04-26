@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Python and Javascript
 - 👀 I’m interested in projects/work that will challenge me
 - 💞️ My watchword : Growth, Excellence and Hard work
+- ✨ Interesting fact about me : I love volunteering
 - 📫 How to reach me blessingilesanmi21@gmail.com
 
 <!---
