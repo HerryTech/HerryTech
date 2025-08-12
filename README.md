@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,;+I+am+HerryTech,+a+lady+in+Tech;I+align+with+growth✨...)](https://git.io/typing-svg)
-- 🌱 I'm a data scientist/analyst passionate about working with data
-- 🌱 I'm building my skills in advanced analytics, machine learning, and impactful data storytelling
+- 🌱 I'm a data analyst passionate about working with data
+- 🌱 I'm building my skills in advanced analytics, visualization, and impactful data storytelling
 - 👀 I’m interested in projects/work that will challenge me
 - 💞️ My watchwords: Growth, Excellence, and Hard work
 - ✨ Interesting fact about me: I love volunteering
